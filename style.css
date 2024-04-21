@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(175, 211, 217);
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  color: aliceblue;
+}
+div {
+  background-color: rgba(255, 253, 240, 0.877);
+}
+
+#WMSC40 {
+  background-color: hotpink;
+  color: aliceblue;
+}
+
+#MG59 {
+  background-color: mediumpurple;
+  color: aliceblue;
+}
+#nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ba8eca;
+}
+
+#nav ul li {
+  float: left;
+}
+
+#nav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nav ul li a:hover {
+  background-color: #241a1a;
+}
+h3{
+background-color: lightskyblue;
+}
